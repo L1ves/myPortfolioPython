@@ -11,4 +11,5 @@ def get_vat(payment, percent=18):
     pass
 
 result = get_vat(150000,18)
+
 print(result)
